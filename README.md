@@ -5,7 +5,7 @@ Meu portfólio
 
 ### Requisitos 3.1
 
-- [ ] Seu nome completo;
+- [x] Seu nome completo;
 - [ ] Uma foto atual sua, acompanhada de um texto alternativo, que deve ser a descrição da foto que você está usando;
 - [ ] Uma breve descrição sobre você, destacando algumas informações como nacionalidade e a cidade/estado onde mora;
 - [ ] Uma lista de habilidades que você possui, com destaque para aquela de que você mais se orgulha;
