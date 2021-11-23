@@ -22,13 +22,13 @@ Meu portfólio
 - [x] Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;
 
 ### Requisitos 3.3
-- [ ] Procure a tag `<style></style>` , onde você fez as alterações ontem. Mova todo o conteúdo da tag `style` e coloque em um arquivo `style.css` ;
-- [ ] Adicione as novas alterações dentro do arquivo `style.css` ;
-- [ ] Não se esqueça de importar esse arquivo na sua página;
-- [ ] Depois de importar o arquivo `style.css` , você já pode remover a tag `style` do seu documento.
-- [ ] Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos;
-- [ ] A descrição deve ficar *ao lado* da foto;
-- [ ] Centralize seu nome na página;
-- [ ] Use `padding` e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página;
-- [ ] Adicione `margin` e `padding` nos elementos que julgar necessário;
-- [ ] Coloque estilo somente nos itens ímpares da lista das suas habilidades.
+- [x] Procure a tag `<style></style>` , onde você fez as alterações ontem. Mova todo o conteúdo da tag `style` e coloque em um arquivo `style.css` ;
+- [x] Adicione as novas alterações dentro do arquivo `style.css` ;
+- [x] Não se esqueça de importar esse arquivo na sua página;
+- [x] Depois de importar o arquivo `style.css` , você já pode remover a tag `style` do seu documento.
+- [x] Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos;
+- [x] A descrição deve ficar *ao lado* da foto;
+- [x] Centralize seu nome na página;
+- [x] Use `padding` e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página;
+- [x] Adicione `margin` e `padding` nos elementos que julgar necessário;
+- [x] Coloque estilo somente nos itens ímpares da lista das suas habilidades.
