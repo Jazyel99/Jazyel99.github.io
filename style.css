@@ -6,6 +6,9 @@ body{
   background: black;
 }
 
+#sobre{
+  text-align: center;
+}
 .descricao img{
   display: block;
   width: 250px;
