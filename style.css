@@ -5,10 +5,18 @@
 body{
   background: black;
 }
+
+.descricao img{
+  display: block;
+  width: 250px;
+  float: left;
+}
 .descricao{
+  display: inline-block;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.5rem;
 }
+
 strong{
   background: white;
   color: black;
