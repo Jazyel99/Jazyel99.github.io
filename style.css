@@ -1,0 +1,22 @@
+*{
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+body{
+  background: black;
+}
+.descricao{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.5rem;
+}
+strong{
+  background: white;
+  color: black;
+}
+em{
+  background: red;
+  font-weight: bold;
+}
+.lista_de_habilidades li{
+  font-size: 1rem;
+}
